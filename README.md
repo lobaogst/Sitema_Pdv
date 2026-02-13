@@ -3,9 +3,12 @@ Aqui está o conteúdo do seu README.md pronto para copiar e colar. Ele utiliza 
 Markdown
 # 🛍️ Sistema PDV - Moda Mais Barata
 
+
 ![Status](https://img.shields.io/badge/Status-Ativo-ff69b4)
 ![PHP](https://img.shields.io/badge/PHP-5.6%20%7C%207.x-blue)
 ![License](https://img.shields.io/badge/License-Proprietário-lightgrey)
+video demostrativo:
+https://www.youtube.com/watch?v=dk8Geeddn_Q
 
 O **Moda Mais Barata** é um sistema de Ponto de Venda (PDV) desenvolvido para otimizar o fluxo de caixa, controle de vendas e emissão de comprovantes. Focado em simplicidade e eficiência, o sistema atende tanto vendas presenciais quanto operações online.
 
